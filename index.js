@@ -6,3 +6,4 @@ const dob = "31/01/2001";
 const isadult = () => {
     return age >= 24;
 }
+const gender = "female";
